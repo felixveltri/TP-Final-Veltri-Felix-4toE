@@ -35,3 +35,14 @@ h3 {
     color: #17324D;
     font-size: 22px;
 }
+p{
+    font-size: 17px;
+}
+footer {
+    background-color: #17324D;
+    color:white;
+    text-align: center;
+}
+footer p {
+    text-align: center;
+}
