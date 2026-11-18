@@ -46,3 +46,7 @@ footer {
 footer p {
     text-align: center;
 }
+.logo {
+    width: 100px;
+    margin: 5px;
+}
