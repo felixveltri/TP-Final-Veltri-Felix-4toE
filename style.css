@@ -5,7 +5,7 @@
 body {
     background-color: #f8f5ef;
     color: #17324D;
-    font-family: Arial;
+    font-family: 'Trebuchet MS';
 }
 header{
     background-color: #17324D;
@@ -53,4 +53,7 @@ footer p {
 img {
     width: 400px;
     margin: 15px;
+}
+h1, h2, h3, h4 {
+    font-family: Georgia;
 }
